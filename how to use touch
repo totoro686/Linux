@@ -1,0 +1,2 @@
+1. touch all the file and sub-folder in one folder
+   find . -exec touch {} \;
